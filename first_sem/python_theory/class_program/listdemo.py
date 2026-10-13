@@ -1,0 +1,1 @@
+marks=['dhayn',50,70,65,80,94] // declare  an list to store marks of 'sachin'
